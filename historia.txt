@@ -4,7 +4,7 @@ Soy Eduardo un chico que le gusta estudiar.
 
 Experimento 1
 
-Experimento 2
+Exp erimento 2
 
 Master 1
 
@@ -12,3 +12,5 @@ Master 2
 
 Nací en Ecatepec de Morelos, Estado de México. Estudíe en UNAM la carrera de Actuaría y actualmente trabajo en un areá de sistemas.
 Me gusta Jugar futbol y juegos de mesa.
+
+Esto es lo que quiero agregar adcional
